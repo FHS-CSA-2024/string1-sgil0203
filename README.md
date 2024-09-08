@@ -169,7 +169,6 @@ public class String1
           int stringLength = str.length();
           int stringLength2 = str.length()/2;
           return str.substring(stringLength2-1, stringLength2+2);
-}
 
 /*
      * Given a string, return a new string made of 3 copies of the first 2 chars of the original string. 
